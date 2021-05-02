@@ -47,5 +47,5 @@ $(document).ready(function(e) {
     }else if($(document).scrollTop()>=moveTop3){
       $('nav ul li:last-child').addClass('active');
       
-    }
-  }
+    };
+  };
